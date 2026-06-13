@@ -1,0 +1,1 @@
+a_bram_max_x16 12288 196608 full

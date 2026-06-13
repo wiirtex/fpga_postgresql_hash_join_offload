@@ -1,0 +1,2 @@
+tiny 16 64 full
+small 64 256 full

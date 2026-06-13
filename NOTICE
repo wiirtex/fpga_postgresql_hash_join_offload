@@ -1,0 +1,11 @@
+FPGA PostgreSQL Hash Join Offload
+Copyright 2026
+
+This product includes a board constraint file based on Digilent's
+digilent-xdc repository:
+
+    https://github.com/Digilent/digilent-xdc
+
+The Digilent-derived file is listed in THIRD_PARTY_NOTICES.md and remains
+available under its original MIT license.
+

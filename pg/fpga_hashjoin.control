@@ -1,0 +1,5 @@
+# fpga_hashjoin extension
+comment = 'FPGA-accelerated Hash Join offloading (Academic research)'
+default_version = '1.0'
+module_pathname = '$libdir/fpga_hashjoin'
+relocatable = true

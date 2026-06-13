@@ -1,0 +1,6 @@
+tiny_full 16 64 full
+tiny_half 16 64 half
+tiny_low10 16 100 low10
+tiny_none 16 64 none
+tiny_hotkey 16 64 hotkey
+tiny_outer_skew 16 64 outer_skew

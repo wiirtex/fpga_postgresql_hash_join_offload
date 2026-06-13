@@ -1,0 +1,2 @@
+medium 256 1024 full
+rx4 1024 4096 full

@@ -1,0 +1,7 @@
+tiny 16 64 full
+small 64 256 full
+medium 256 1024 full
+rx4 1024 4096 full
+large 4096 16384 full
+a_bram_max_x4 12288 49152 full
+a_bram_max_x16 12288 196608 full
